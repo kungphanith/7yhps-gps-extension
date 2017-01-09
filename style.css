@@ -1,0 +1,15 @@
+.tooltip-inner.text-ellipsis{
+  /*max-width: 35px !important;*/
+}
+.tooltip.top{
+  width: 40px !important;
+  margin-left: 27px !important;
+}
+.navbar-brand a img{
+  content:url(http://kungphanith.github.io/public_images/7yhps-logo.png) !important;
+}
+
+
+.login .logo-login img{
+  content:url(https://lh6.googleusercontent.com/UDxUPuI_DLJljKfbxIY5EH8mfce1jk_g7rXZ83pCOMeS0RcvCj6zQ48lYfjASrg0S9kCQmN4q9bwIuk=w1920-h1113) !important;
+}

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "7YHPS-GPS",
+  "version": "0.1.0",
+  "description": "For modify GPs Interfaces",
+  "content_scripts": [{
+    "css": ["style.css"],
+    "js": ["content.js"],
+    "matches": ["<all_urls>"]
+  }]
+}
